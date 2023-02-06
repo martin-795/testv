@@ -1,0 +1,15 @@
+{
+  "findings": {
+    "high_confidence": [
+      {
+        "file": "config/prod.exs",
+        "line": 0,
+        "type": "Config.HTTPS: HTTPS Not Enabled"
+      }
+    ],
+    "low_confidence": [],
+    "medium_confidence": []
+  },
+  "sobelow_version": "0.11.1",
+  "total_findings": 1
+}
